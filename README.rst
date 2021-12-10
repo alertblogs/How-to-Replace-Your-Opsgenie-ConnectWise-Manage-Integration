@@ -1,41 +1,35 @@
-AlertOps Expert Guidance
+How to Replace Your Opsgenie ConnectWise Manage Integration
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Looking for a replacement for your Opsgenie ConnectWise Manage integration?
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Conversations are popping up on Reddit with concerns over the recent deprecation of Opsgenie’s ConnectWise Manage Integration.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+In case you’re interested, here is more info about that
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+ConnectWise Manage is a PSA tool that centralizes all of your clients’ data into one application and provides a complete business management and process automation app for IT Service companies.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Ready to switch?
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Build an automation powerhouse with ConnectWise Manage and AlertOps.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+👉 Manage SLAs across all your clients to deliver exceptional customer experiences
+👉 Automate your end-to-end ticket lifecycle so nothing falls through the cracks
+👉 AlertOps can open a request in ConnectWise Manage when an alert is created.AlertOps can update the assignee in a ConnectWise Manage request when an alert is assigned.
+👉 AlertOps can close a request in ConnectWise Manage when an alert is closed.
+👉 You can map any inbound field to a custom field in AlertOps.
+👉 You can map any inbound field to the topic field in AlertOps, and use topics to track incidents and also to route incidents to teams.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+AlertOps has many features to make your incident management life easier: multi-modal communication, teams with on-call schedules, customizable messages, routing rules, customizable workflows and escalations, SLA based severity management and much more.
 
-1 Red Canary 2021 Threat Detection Report
+At AlertOps we offer over 50 of the top third party integrations for monitoring, service desk, hosting and chat tools and we are adding more every day! 
+
+If you’re new to AlertOps, sign up for a free trial to get started today!
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/replace-opsgenie-connectwise-manage/
 Read more:
 ====
 
